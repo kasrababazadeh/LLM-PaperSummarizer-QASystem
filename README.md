@@ -69,11 +69,11 @@ Make sure you have the following installed:
 
 ## File Structure
 
-```bash
-├── app.py                 # Main Streamlit app file
-├── README.md              # Project documentation (this file)
-├── requirements.txt       # Python dependencies
-└── ...
+   ```bash
+   ├── app.py                 # Main Streamlit app file
+   ├── README.md              # Project documentation (this file)
+   ├── requirements.txt       # Python dependencies
+   └── ...
 
 
 ## License
