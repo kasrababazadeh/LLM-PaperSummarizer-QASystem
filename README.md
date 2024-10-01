@@ -67,16 +67,6 @@ Make sure you have the following installed:
    - "Explain the methodology used in the research."
    - "What are the key findings?"
 
-## File Structure
-
-   ```bash
-   ├── app.py                 # Main Streamlit app file
-   ├── README.md              # Project documentation (this file)
-   ├── requirements.txt       # Python dependencies
-   └── ...
-
-
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
