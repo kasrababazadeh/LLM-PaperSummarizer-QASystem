@@ -76,9 +76,7 @@ Make sure you have the following installed:
 └── ...
 
 
-### Instructions for Use
-1. Copy the above markdown text.
-2. Create a new file named `README.md` in your project directory.
-3. Paste the text into the file and save it.
+## License
 
-Feel free to customize any sections to better suit your project!
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
